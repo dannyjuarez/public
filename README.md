@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset= "utf-8">
-    <title>Black Goose Bistro</title>
+    <title>"Black Goose Bistro"</title>
   </head>
   <body>
    <h1> Hello World! this is my first ever webpage!</h1>
